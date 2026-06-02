@@ -1,0 +1,5 @@
+BASE_URL = "https://the-internet.herokuapp.com/login"
+VALID_USERNAME = "tomsmith"
+VALID_PASSWORD = "SuperSecretPassword!"
+INVALID_USERNAME = "wrong"
+INVALID_PASSWORD = "incorrect"
