@@ -55,7 +55,7 @@ pytest --html=report.html --self-contained-html
 ---
 
 ## 📁 Project Structure
-
+<pre>
 test-automation-framework/
 │
 ├── conftest.py                # Global fixtures + pytest options
@@ -73,7 +73,7 @@ test-automation-framework/
 │   └── test_login.py          # Login test suite
 │
 └── README.txt
-
+</pre>
 ---
 
 ## 🧩 How Browser Selection Works
